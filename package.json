@@ -16,8 +16,7 @@
   "types": "lib/index.d.ts",
   "files": [
     "lib/*",
-    "WAProto/*.ts",
-    "WAProto/*.js",
+    "WAProto/*",
     "WASignalGroup/*.js",
     "engine-requirements.js"
   ],
